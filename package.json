@@ -40,5 +40,9 @@
     "eslint-config-prettier": "^10.1.8",
     "globals": "^16.4.0",
     "prettier": "^3.6.2"
+  },
+  "allowScripts": {
+    "prisma@7.4.2": true,
+    "@prisma/engines@7.4.2": true
   }
 }
